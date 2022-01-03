@@ -570,3 +570,10 @@ transaction = await contract.createMarketItem(nftaddress, tokenId, price, { valu
 The project should now be complete. You should be able to create, view, and purchase NFTs from the marketplace.
 
 To view a completed version of the project, check out the code located in the **marketplace-complete** folder.
+
+### appendix
+**nftaddress**
+- entity of your asset
+
+**nftmarketaddress**
+- selling and buying via market
